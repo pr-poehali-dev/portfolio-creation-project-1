@@ -42,7 +42,7 @@ const Index = () => {
               <div className="flex-1 flex justify-center">
                 <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full bg-gradient-to-br from-accent to-primary/30 flex items-center justify-center overflow-hidden">
                   <img 
-                    src="https://cdn.poehali.dev/files/c7b48e88-eb3a-4c12-b0c7-d80ea041a3a8.png" 
+                    src="https://cdn.poehali.dev/files/0939469f-8248-428c-9e70-bacb4e74f257.png" 
                     alt="Динар" 
                     className="w-full h-full object-cover"
                   />
